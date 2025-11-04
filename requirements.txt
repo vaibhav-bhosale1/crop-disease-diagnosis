@@ -1,0 +1,21 @@
+# Core Data Science & ML
+numpy
+pandas
+scikit-learn
+scikit-image
+
+# Deep Learning (PyTorch)
+torch
+torchvision
+scipy
+
+# Hyperspectral & Scientific Computing
+spectral  # (spylib - very useful for HSI data)
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Web App (Optional)
+streamlit
